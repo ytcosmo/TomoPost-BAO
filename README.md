@@ -7,6 +7,6 @@ The best-fit values with 1\sigma error bars for the parameters (DA/rd, H*rd) at 
 
 and
 
-#tomographic_BAO_invcov.txt
+# tomographic_BAO_invcov.txt
 
 The covariance matrix between the parameters (DA/rd, H*rd) at nine redshifts.
