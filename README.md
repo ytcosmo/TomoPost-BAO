@@ -9,6 +9,6 @@ and
 
 # tomographic_BAO_invcov.txt
 
-The covariance matrix between the parameters (DA/rd, H*rd) at nine redshifts.
+The inverse covariance matrix between the parameters (DA/rd, H*rd) at nine redshifts.
 
 # TomoPost-BAO
